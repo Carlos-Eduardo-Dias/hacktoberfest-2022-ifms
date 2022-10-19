@@ -5,3 +5,8 @@ Sou aluno do Instituto Federal de Mato Grosso do Sul (IFMS), camisa 10 desde sem
 # Formação
 
 Atualmente, fazendo o ensino médio e junto cursando técnico integrado em infomática.
+
+# Contatos
+
+Email: carlos.dias2@estudante.ifms.edu.br
+Telefone: (67) 9 9644-5237
