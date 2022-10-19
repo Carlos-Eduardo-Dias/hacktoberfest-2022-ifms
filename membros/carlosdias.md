@@ -4,4 +4,4 @@ Sou aluno do Instituto Federal de Mato Grosso do Sul (IFMS), camisa 10 desde sem
 
 # Formação
 
-Aulas quando o assunto é malandragem
+Atualmente, fazendo o ensino médio e junto cursando técnico integrado em infomática.
